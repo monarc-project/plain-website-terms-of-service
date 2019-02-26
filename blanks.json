@@ -1,11 +1,11 @@
 {
-  "Website Link": "https://www.example.com",
-  "Company Name": "Example, Inc.",
-  "Last Updated": "January 1, 1970",
-  "Account Deletion Method": "e-mailing [support@example.com](mailto:support@example.com)",
+  "Website Link": "https://my.monarc.lu",
+  "Company Name": "Security Made In Lëtzebuerg",
+  "Last Updated": "February 26, 2019",
+  "Account Deletion Method": "e-mailing [info@cases.lu](mailto:info@cases.lu)",
   "Privacy Policy Link": "https://example.com/privacy",
   "Copyright Policy Link": "https://example.com/copyright",
-  "Governing Law": "California law",
-  "Forum": "San Francisco, California",
-  "Company Address": "[support@example.com](mailto:support@example.com)"
+  "Governing Law": "Luxembourg law",
+  "Forum": "Luxembourg, Luxembourg",
+  "Company Address": "[info@cases.lu](mailto:info@cases.lu)"
 }

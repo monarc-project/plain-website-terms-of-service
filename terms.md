@@ -144,10 +144,6 @@ The following provisions survive the end of our agreement: [Your Content](#your-
 
 {{Governing Law}} will govern any dispute, including any legal proceedings, related to these terms or your use of the website.
 
-You and the company agree to seek injunctions related to these terms only in state or federal court in {{Forum}}.  Neither you nor the company will object to jurisdiction, forum, or venue in those courts.
-
-***Other than to seek an injunction or for claims under the Computer Fraud and Abuse Act, you and the company will resolve any Dispute by binding American Arbitration Association arbitration.  Arbitration will follow the AAA's Commercial Arbitration Rules and Supplementary Procedures for Consumer Related Disputes.  Arbitration will happen in {{Forum}}.  You will settle any dispute as an individual, and not as part of a class action or other representative proceeding, whether as the plaintiff or a class member.  No arbitrator will consolidate any dispute with any other arbitration without the company's permission.***
-
 Any arbitration award will include costs of the arbitration, reasonable attorneys' fees, and reasonable costs for witnesses.  You or the company may enter arbitration awards in any court with jurisdiction.
 
 ## <a id="general">General Terms</a>
