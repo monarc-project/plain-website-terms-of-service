@@ -114,12 +114,12 @@ Others who receive content you submit to the website may violate the terms on wh
 
 ### Understanding how CASES uses your data
 
-### MONARC core functions
+#### MONARC core functions
 
 In order to function properly the application MONARC needs to read your data.
 This is a requirement.
 
-### MONARC Global dashboard
+#### MONARC Global dashboard
 
 CASES aggregates anonymized values and evaluates averages for the purposes of
 delivering different kind of visualizations:
