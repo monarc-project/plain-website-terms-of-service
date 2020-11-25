@@ -119,15 +119,16 @@ Others who receive content you submit to the website may violate the terms on wh
 In order to function properly the application MONARC needs to read your data.
 This is a requirement.
 
-### MONARC dashboard
+### MONARC Global dashboard
 
 CASES aggregates anonymized values and evaluates averages for the purposes of
 delivering different kind of visualizations:
 
-1. a private dashboard available at the instance level. Visible to the CEO role.
-   this dashboard displays visualizations about the risk analysis of the MONARC
-   instance;
-2. a public global dashboard with high level aggregated statistics.
+1. A private "Instance dashboard", named as "Global Dashboard" in the tool, is available at the instance level.
+   All the analysis statistics data are visible for CEO role.
+   All the analysis statistics data, which are available for a specific user, are visible for the other roles.
+   This dashboard displays visualizations about the risk analysis of the MONARC instance.
+2. A public "Global Dashboard" with high level aggregated statistics based on data from all the instances.
 
 The CEO role is a specific level role, which provides specific permissions,
 assignable to a user of a MONARC instance. An administrator of a MONARC instance
