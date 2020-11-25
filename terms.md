@@ -106,11 +106,36 @@ Nothing in these terms gives the company any ownership rights in intellectual pr
 
 Between you and the company, you remain solely responsible for content you submit to the website.  You agree not to wrongly imply that content you submit to the website is sponsored or approved by the company.  These terms do not obligate the company to store, maintain, or provide copies of content you submit.
 
-Content you submit to the website belongs to you, and you decide what permission to give others for it.  But at a minimum, you license the company to provide content that you submit to the website to other users of the website.  That special license allows the company to copy, publish, and analyze content you submit to the website.
+Content you submit to the website belongs to you, and you decide what permission to give others for it.  But at a minimum, you license the company to provide content that you submit to the website to other users of the website. That special license allows the company to copy, publish, and analyze content you submit to the website.
 
 When content you submit is removed from the website, whether by you or by the company, the company's special license ends when the last copy disappears from the company's backups, caches, and other systems.  Other licenses you apply to content you submit may continue after your content is removed.  Those licenses may give others, or the company itself, the right to share your content through the website again.
 
 Others who receive content you submit to the website may violate the terms on which you license your content.  You agree that the company will not be liable to you for those violations or their consequences.
+
+### Understanding how CASES uses your data
+
+### MONARC core functions
+
+In order to function properly the application MONARC needs to read your data.
+This is a requirement.
+
+### MONARC dashboard
+
+CASES aggregates anonymized values and evaluates averages for the purposes of
+delivering different kind of visualizations:
+
+1. a private dashboard available at the instance level. Visible to the CEO role.
+   this dashboard displays visualizations about the risk analysis of the MONARC
+   instance;
+2. a public global dashboard with high level aggregated statistics.
+
+The CEO role is a specific level role, which provides specific permissions,
+assignable to a user of a MONARC instance. An administrator of a MONARC instance
+is able to grant this role to other users of this same instance.
+
+An administrator of a MONARC instance can choose to opt-out of the collection
+of statistics for the purpose of 1 and 2, or to only opt-out from 2.
+
 
 ## <a id="responsibility">Your Responsibility</a>
 
