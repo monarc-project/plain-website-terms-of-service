@@ -1,11 +1,12 @@
 {
   "Website Link": "https://my.monarc.lu",
-  "Company Name": "Security Made In Lëtzebuerg",
-  "Last Updated": "February 26, 2019",
+  "Company Name": "SECURITYMADEIN.LU",
+  "Last Updated": "January 5, 2020",
   "Account Deletion Method": "e-mailing [info@cases.lu](mailto:info@cases.lu)",
-  "Privacy Policy Link": "https://example.com/privacy",
+  "Privacy Policy Link": "[Privacy Policy](https://securitymadein.lu/contact/legal/)",
   "Copyright Policy Link": "https://example.com/copyright",
   "Governing Law": "Luxembourg law",
   "Forum": "Luxembourg, Luxembourg",
-  "Company Address": "[info@cases.lu](mailto:info@cases.lu)"
+  "Company Address": "[info@cases.lu](mailto:info@cases.lu)",
+  "Dashboard link": "[dashboard.monarc.lu](https://dashboard.monarc.lu/)"
 }
