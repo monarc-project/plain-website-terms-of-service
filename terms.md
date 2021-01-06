@@ -95,7 +95,7 @@ Nothing in these terms gives {{Company Name}} any ownership rights in intellectu
 
 Between you and {{Company Name}}, you remain solely responsible for content you submit to the website.  You agree not to wrongly imply that content you submit to the website is sponsored or approved by {{Company Name}}.  These terms do not obligate {{Company Name}} to store, maintain, or provide copies of content you submit.
 
-The content you submit to the website belongs to you, and you decide what permission to give others for it.  But at a minimum, you license {{Company Name}} to provide content that you submit to the website to other users of the website for statistical purposes. That special license allows {{Company Name}} to copy, publish, and analyze content you submit to the website.
+The content you submit to the website belongs to you, and you decide what permission to give others for it.  If you agree to do so, you license {{Company Name}} to provide content that you submit to the website to other users of the website for statistical purposes. That special license allows {{Company Name}} to copy, publish, and analyze content you submit to the website.
 
 When content you submit is removed from the website, whether by you or by {{Company Name}}, {{Company Name}}'s special license ends when the last copy disappears from the website. Licenses related to statistical data you shared to {{Dashboard link}} and  information in backups will continue/survived after your content is removed.
 
